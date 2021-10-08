@@ -10,6 +10,7 @@ table, th, td {
   }
 
 img{  border: 3px dashed red;
+      border: 3px dotted red;
     border-radius: 10%;  
 
   } 
